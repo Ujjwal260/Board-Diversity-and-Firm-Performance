@@ -1,9 +1,6 @@
 # Board-Diversity-and-Firm-Performance
 Empirical panel-data analysis examining the relationship between board diversity (gender, nationality, and educational diversity) and firm financial performance and innovation outcomes using secondary data and econometric modelling.
-
-# Board-Diversity-and-Firm-Performance
-
-Empirical panel-data analysis examining the relationship between board diversity (gender, nationality, and educational diversity) and firm financial performance and innovation outcomes using secondary data and econometric modelling.
+Key finding: Educational diversity β=0.73, p=0.022 across 503 listed firms"
 
 ---
 
