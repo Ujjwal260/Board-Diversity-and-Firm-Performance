@@ -122,9 +122,11 @@ The findings presented in this repository are for academic purposes only. They r
 ---
 
 ## Author
-
-MSc Business Analytics Student  
-University of Greenwich  
+**Ujjwal Rastogi**  
+MSc Business Analytics — University of Greenwich (Merit, 2026)\
+London, UK\
+LinkedIn: linkedin.com/in/ujjwal-rastogi-3932a6150\
+Email: ujjwal.rastogi260@gmail.com  
 
 ---
 
